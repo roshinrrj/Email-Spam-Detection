@@ -1,2 +1,2 @@
 # Email-Spam-Detection
-Machine Learning based Spam Detection System using Python, NLP, and Scikit-learn to classify SMS/Email messages as Spam or Ham with data analysis, visualization, training, testing, and accuracy evaluation.
+This project is a Machine Learning based Spam Detection System developed using Python, Pandas, NLP, and Scikit-learn. The model analyzes SMS/email messages and classifies them as Spam or Ham. The project includes data preprocessing, visualization, text vectorization, model training, testing, accuracy evaluation, and prediction of custom messages using the Naive Bayes algorithm.
